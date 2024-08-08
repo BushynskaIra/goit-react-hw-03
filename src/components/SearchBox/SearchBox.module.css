@@ -1,0 +1,19 @@
+.searchBox {
+    max-width: 400px;
+    /* margin: 0 auto 20px auto; */
+    margin-bottom: 20px;
+  }
+  
+  .searchBox label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .searchBox input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
